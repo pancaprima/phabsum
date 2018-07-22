@@ -5,7 +5,7 @@ import sys, os, re, ast
 
 setup(
     name='phabsum',
-    version='0.0.1',
+    version='0.0.2',
     description="Phabricator Summarizer by Prima",
     long_description="""I hate manual""",
     classifiers=[
